@@ -1,10 +1,8 @@
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="origin">
 <meta name="description" content="Test">
 <title>Nikita Double "G"| Front-end Web Developer</title>
-
 <!-- Import Font Awesome -->
 <script src="./Test/318c8c8e58.js.Без названия" crossorigin="anonymous"></script><link rel="stylesheet" href="./Test/free.min.css" media="all"><link rel="stylesheet" href="./Test/free-v4-font-face.min.css" media="all"><link rel="stylesheet" href="./Test/free-v4-shims.min.css" media="all">
 <!-- Import Google Fonts -->
@@ -24,12 +22,10 @@
 <button tabindex="0" class="hire-button pushEffect"><a href="https://nikitaguliaev.com/Nikita_Guliaev_Web_Developer.pdf" download="Nikita_Guliaev_Web_Developer_Resume" target="_blank" rel="noopener noreferrer">Download CV</a></button>
 </div>
 <!-- burger menu STARTS-->
-
 <div class="burger-menu">
 <a tabindex="0" href="https://nikitaguliaev.com/#" class="burger-menu__button">
 <span class="burger-menu__lines"></span>
 </a>
-
 <nav class="burger-menu__nav">
 <a tabindex="0" href="https://nikitaguliaev.com/#home" class="burger-menu__link">Home🏡</a>
 <a tabindex="0" href="https://nikitaguliaev.com/#about" class="burger-menu__link">About🔎</a>
@@ -50,8 +46,6 @@
 </nav>
 </div>
 </div>
-
-
 <div class="header-content aos-init aos-animate" data-aos="fade-up" data-aos-easing="ease-in-out">
 <div class="wrapper">
 <div class="header-content__container">
@@ -83,13 +77,9 @@
 <h2>About 🔎</h2>
 </div>
 <p data-aos="fade-up" class="about__p1 aos-init">Я слишком хорош для этой планеты, Вы знаете? Я понял это когда смог убить взглядом бомжа. Взглядом и арматурой. Впрочем, Вы определенно ищете иные таланты, раз зашли на эту страницу. Однако, имейте в виду - бомжа убить тоже могу.</p>
-
 <p data-aos="fade-up" class="aos-init">Моя карьера началась <span class="webDev">вначале</span> и на тот момент я уже успешно нашел 145 точек G. Причем некоторые из них считались потерянными более 40 лет. И когда я нашел 146 точку G, под проливным дождем и раскатами молний, для себя я решил - теперь это мое призвание. Включил <span class="webDev">Jhony Cash - Hurt</span>, постирал рубашку и пуховик. В ту ночь хотелось козинаков - я очень внимателен к деталям.</p>
-
 <p data-aos="fade-up" class="aos-init">Дальше я основал команду неуловимых мстителей <span class="webDev">Super G-spot</span> в рядах которых в качестве предводителя я и прошел <span class="webDev"> Call of duty, Serious Sam и шахматы (дважды) </span>. После чего успешно продал команду <span class="webDev">Al'kaidaGroup</span>.</p>
-
 <p data-aos="fade-up" class="aos-init">Я перешел на новый уровень с батончиками Mars. И на тот момент своей карьеры уже мог читать мысли по слогам.</p>
-
 <h3>И если ты до сих пор не понял:</h3>
 <ul>
 <li><span>✅</span> Я убиваю взглядом (это безцветный лазер).</li>
@@ -133,7 +123,6 @@
 <img src="./Test/8.png" alt="react logo" aria-label="SASS logo">
 <p>SASS</p>
 </li>
-
 </div>
 <div data-aos="fade-up" class="skillList-thirdRow aos-init">
 <li>
@@ -192,10 +181,7 @@
 <div class="redLine"></div>
 <h2>My Projects ✅</h2>
 </div>
-
-
 <div class="mobileProjects--containerForAll">
-
 <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
 <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopPizza.png" alt="image of the project on a laptop screen"></div>
 <div class="mobileProjects--projectBox__projectName">
@@ -224,10 +210,6 @@
 <a tabindex="0" class="pushEffect hoverWhite aos-init" data-aos="fade-up" href="https://github.com/widespreadtruck/online-store" target="_blank" rel="noopener noreferrer">GitHub</a>
 </div>
 </div>
-
-
-
-
 <!-- <div class="mobileProjects--projectBox" data-aos="fade-up" data-aos-easing="ease-in-out">
 <div tabindex="0" class="mobileProjects--projectBox__imageBox"><img src="./assets/projects/laptopQuiz.png"
 alt="image of the project on a laptop screen"></div>
@@ -252,10 +234,6 @@ Link</a>
 <a tabindex="0" class="pushEffect hoverWhite" data-aos="fade-up" href="https://github.com/widespreadtruck/quiz-app" target="_blank" rel="noopener noreferrer">GitHub</a>
 </div>
 </div> -->
-
-
-
-
 <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
 <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopCalculator.png" alt="image of the project on a laptop screen"></div>
 <div class="mobileProjects--projectBox__projectName"><h3>Daily Budget Calculator</h3></div>
@@ -313,7 +291,6 @@ Link</a>
 </div>
 </div>
 </section>
-
 <section class="contact aos-init" id="contact" data-aos="fade-up" data-aos-easing="ease-in-out">
 <div class="wrapper">
 <div class="contacts--title">
@@ -372,7 +349,4 @@ Link</a>
 <script>
 AOS.init();
 </script>
-
-
-
 </body></html>
