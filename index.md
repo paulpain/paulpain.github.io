@@ -1,0 +1,380 @@
+# paulpain.github.io
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="origin">
+    <meta name="description" content="Test">
+    <title>Nikita Double "G"| Front-end Web Developer</title>
+
+    <!-- Import Font Awesome -->
+    <script src="./Test/318c8c8e58.js.Без названия" crossorigin="anonymous"></script><link rel="stylesheet" href="./Test/free.min.css" media="all"><link rel="stylesheet" href="./Test/free-v4-font-face.min.css" media="all"><link rel="stylesheet" href="./Test/free-v4-shims.min.css" media="all">
+    <!-- Import Google Fonts -->
+    <link href="./Test/css2" rel="stylesheet">
+        <!-- Import stylesheet -->
+    <link rel="stylesheet" href="./Test/styles.css">
+    <!-- Import animate-on-scroll styles -->
+    <link rel="stylesheet" href="./Test/aos.css">
+</head>
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <header id="home">
+        <!-- Full sized menu starts -->
+        <div class="nav-wrapper">
+            <div class="wrapper">
+                <nav class="header--nav">
+                    <div class="header-hire">
+                        <button tabindex="0" class="hire-button pushEffect"><a href="https://nikitaguliaev.com/Nikita_Guliaev_Web_Developer.pdf" download="Nikita_Guliaev_Web_Developer_Resume" target="_blank" rel="noopener noreferrer">Download CV</a></button>
+                    </div>
+                    <!-- burger menu STARTS-->
+
+                    <div class="burger-menu">
+                        <a tabindex="0" href="https://nikitaguliaev.com/#" class="burger-menu__button">
+                            <span class="burger-menu__lines"></span>
+                        </a>
+                    
+                        <nav class="burger-menu__nav">
+                            <a tabindex="0" href="https://nikitaguliaev.com/#home" class="burger-menu__link">Home🏡</a>
+                            <a tabindex="0" href="https://nikitaguliaev.com/#about" class="burger-menu__link">About🔎</a>
+                            <a tabindex="0" href="https://nikitaguliaev.com/#stack" class="burger-menu__link">Stack📚</a>
+                            <a tabindex="0" href="https://nikitaguliaev.com/#projects" class="burger-menu__link">Projects✅</a>
+                            <a tabindex="0" href="https://nikitaguliaev.com/#contact" class="burger-menu__link">Contact📬</a>
+                        </nav>
+                        <div class="burger-menu__overlay"></div>
+                    </div>
+                    <!-- burger menu ENDS -->
+                    <ul class="header-navig">
+                        <a tabindex="0" class="header--nav__a" href="https://nikitaguliaev.com/#home">Home</a>
+                        <a tabindex="0" class="header--nav__a" href="https://nikitaguliaev.com/#about">About</a>
+                        <a tabindex="0" class="header--nav__a" href="https://nikitaguliaev.com/#stack">Stack</a>
+                        <a tabindex="0" class="header--nav__a" href="https://nikitaguliaev.com/#projects">Projects</a>
+                        <a tabindex="0" class="header--nav__a" href="https://nikitaguliaev.com/#contact">Contact</a>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+
+        <div class="header-content aos-init aos-animate" data-aos="fade-up" data-aos-easing="ease-in-out">
+            <div class="wrapper">
+                <div class="header-content__container">
+                    <div class="container-left">
+                        <div class="iAmNikita">
+                            <h2 class="Iam">I Am</h2>
+                            <h1 class="name">Nikita Double "G"&lt;<span class="name__emodji">/👨‍💻&gt;</span></h1>
+                            <!-- JS typed text goes here -->
+                            <h3 class="frontEnd" id="typed">Fronte</h3>
+                            <ul class="socialLinks">
+                                <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://twitter.com/nikita_guliaev"><i class="fab fa-twitter-square hoverGlow" aria-hidden="true"></i></a></li>
+                                <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://github.com/widespreadtruck"><i class="fab fa-github-square hoverGlow" aria-hidden="true"></i></a></li>
+                                <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikita-guliaev-ma-808aab8a/"><i class="fab fa-linkedin hoverGlow" aria-hidden="true"></i></a></li>
+                                <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://dev.to/nikita_guliaev"><i class="fab fa-dev hoverGlow" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="container-right">
+                        <img class="nikitaImg" src="./Test/black.JPG" alt="photo of Nikita Guliaev">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="about" id="about">
+            <div class="about--title">
+                <div class="redLine"></div>
+                <h2>About 🔎</h2>
+            </div>
+            <p data-aos="fade-up" class="about__p1 aos-init">Я слишком хорош для этой планеты, Вы знаете? Я понял это когда смог убить взглядом бомжа. Взглядом и арматурой. Впрочем, Вы определенно ищете иные таланты, раз зашли на эту страницу. Однако, имейте в виду - бомжа убить тоже могу.</p>
+
+            <p data-aos="fade-up" class="aos-init">Моя карьера началась <span class="webDev">вначале</span> и на тот момент я уже успешно нашел 145 точек G. Причем некоторые из них считались потерянными более 40 лет. И когда я нашел 146 точку G, под проливным дождем и раскатами молний, для себя я решил - теперь это мое призвание. Включил <span class="webDev">Jhony Cash - Hurt</span>, постирал рубашку и пуховик. В ту ночь хотелось козинаков - я очень внимателен к деталям.</p>
+                
+            <p data-aos="fade-up" class="aos-init">Дальше я основал команду неуловимых мстителей <span class="webDev">Super G-spot</span> в рядах которых в качестве предводителя я и прошел <span class="webDev"> Call of duty, Serious Sam и шахматы (дважды) </span>. После чего успешно продал команду <span class="webDev">Al'kaidaGroup</span>.</p>
+
+            <p data-aos="fade-up" class="aos-init">Я перешел на новый уровень с батончиками Mars. И на тот момент своей карьеры уже мог читать мысли по слогам.</p>
+                
+            <h3>И если ты до сих пор не понял:</h3>
+            <ul>
+                <li><span>✅</span> Я убиваю взглядом (это безцветный лазер).</li>
+                <li>✅ Я работал в APPlE.inc, но Кук и Уильямс отрицают мою причастность.</li>
+                <li>✅ Я слышу голоса. Когда со мной кто-то разговаривает.</li>
+		<li>✅ Я отсидел ногу пока писал этот текст.</li>
+                <li>✅ Собираю кубик-рубика за 19,5 секунды. Только цвета сторон могут быть разными (не больше семи разных цветов на сторону).</li>
+            </ul>
+        </section>
+        <section class="stackSection aos-init" id="stack" data-aos="fade-up" data-aos-easing="ease-in-out">
+            <div class="wrapper">
+                <div class="stackSection--title">
+                    <div class="redLine"></div>
+                    <h2>Мое эт-самое 📚</h2>
+                </div>
+                <div class="stackSection--container">
+                    <ul class="skillList-left">
+                        <div data-aos="fade-up" class="skillList-firstRow aos-init">
+                            <li>
+                                <img src="./Test/1.png" alt="react logo" aria-label="react logo">
+                                <p>React</p>
+                            </li>
+                            <li>
+                                <img src="./Test/17.png" alt="redux logo" aria-label="redux logo">
+                                <p>Redux</p>
+                            </li>
+                            <li>
+                                <img src="./Test/2.png" alt="react logo" aria-label="JavaScript logo">
+                                <p>JavaScript</p>
+                            </li>
+                        </div>
+                        <div data-aos="fade-up" class="skillList-secondRow aos-init">
+                            <li>
+                                <img src="./Test/9.png" alt="react logo" aria-label="HTML5 logo">
+                                <p>HTML5</p>
+                            </li>
+                            <li>
+                                <img src="./Test/10.png" alt="react logo" aria-label="CSS3 logo">
+                                <p>CSS3</p>
+                            </li>
+                            <li>
+                                <img src="./Test/8.png" alt="react logo" aria-label="SASS logo">
+                                <p>SASS</p>
+                            </li>
+
+                        </div>
+                        <div data-aos="fade-up" class="skillList-thirdRow aos-init">
+                            <li>
+                                <img src="./Test/7.png" alt="react logo" aria-label="GitHub logo">
+                                <p>GitHub</p>
+                            </li>
+                            <li>
+                                <img src="./Test/3.png" alt="react logo" aria-label="Firebase logo">
+                                <p>Firebase</p>
+                            </li>
+                            <li>
+                                <img src="./Test/4.png" alt="react logo" aria-label="jQuery logo">
+                                <p>jQuery</p>
+                            </li>
+                            <!-- <li tabindex="0">
+                                <img src="./assets//skillz/5.png" alt="react logo" aria-label="VS Code logo">
+                                <p>VS Code</p>
+                            </li>                         -->
+                        </div>
+                        <div data-aos="fade-up" class="skillList-fourthRow aos-init">
+                            <li>
+                                <img src="./Test/11.png" alt="react logo" aria-label="Terminal logo">
+                                <p>Terminal</p>
+                            </li>
+                            <li>
+                                <img src="./Test/6.png" alt="react logo" aria-label="Git logo">
+                                <p>Git</p>
+                            </li>
+                            <li>
+                                <img src="./Test/12.png" alt="react logo" aria-label="REST API logo">
+                                <p>REST API's</p>
+                            </li>
+                        </div>
+                        <div data-aos="fade-up" class="skillList-fifthRow aos-init">
+                            <li>
+                                <img src="./Test/13.png" alt="react logo" aria-label="Styled Components logo">
+                                <p>Styled Components</p>
+                            </li>
+                            <li>
+                                <img src="./Test/14.png" alt="react logo" aria-label="Node.js logo">
+                                <p>Node.js</p>
+                            </li>
+                            <li>
+                                <img src="./Test/15.png" alt="react logo" aria-label="MySQL logo">
+                                <p>MySQL</p>
+                            </li>
+                        </div>
+                    </ul>
+                    <div class="skillList-right"><img src="./Test/2(1).png" alt="an illustration of a developer sitting in front of a computer"></div>
+                </div>
+            </div>
+        </section>
+        <section class="mobileProjects aos-init" id="projects" data-aos="fade-up" data-aos-easing="ease-in-out">
+            <div class="wrapper">
+                <div class="mobileProjects--title">
+                    <div class="redLine"></div>
+                    <h2>My Projects ✅</h2>
+                </div>
+
+                
+                <div class="mobileProjects--containerForAll">
+
+                    <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
+                        <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopPizza.png" alt="image of the project on a laptop screen"></div>
+                        <div class="mobileProjects--projectBox__projectName">
+                            <h3>Могу пиццу заказать на дом</h3>
+                        </div>
+                        <div class="mobileProjects--projectBox__description">
+                            <p>Тут много плюсов:</p>
+                            <ul>
+                                <li>Можно заказать он-лайн.</li>
+                                <li>По телефону позвонить можно.</li>
+                                <li>Загадать пиццу (пока тестирую, но если не заказать он-лайн и не позвонить - ее, скорее всего, не привезут).</li>
+                                <li>Это удобно.</li>
+                            </ul>
+                            <p>Загадывать с окрошкой получается...Почему с пиццой не выходит - ума не приложу...</p>
+                            <h4>Эт-самое:</h4>
+                        </div>
+                        <div data-aos="zoom-in" class="mobileProjects--projectBox__stack aos-init">
+                            <img src="./Test/1.png" alt="stack item">
+                            <img src="./Test/17.png" alt="stack item">
+                            <img src="./Test/9.png" alt="stack item">
+                            <img src="./Test/8.png" alt="stack item">
+                            <img src="./Test/6.png" alt="stack item">
+                        </div>
+                        <div class="mobileProjects--projectBox__buttons">
+                            <a tabindex="0" class="pushEffect redBtn hoverPurple aos-init" data-aos="fade-up" href="https://widespreadtruck.github.io/online-store" target="_blank" rel="noopener noreferrer">Live Link</a>
+                            <a tabindex="0" class="pushEffect hoverWhite aos-init" data-aos="fade-up" href="https://github.com/widespreadtruck/online-store" target="_blank" rel="noopener noreferrer">GitHub</a>
+                        </div>
+                    </div>
+
+
+
+
+                    <!-- <div class="mobileProjects--projectBox" data-aos="fade-up" data-aos-easing="ease-in-out">
+                        <div tabindex="0" class="mobileProjects--projectBox__imageBox"><img src="./assets/projects/laptopQuiz.png"
+                                alt="image of the project on a laptop screen"></div>
+                        <div class="mobileProjects--projectBox__projectName">
+                            <h3>Full Stack Quiz App (freelance for Roche)</h3>
+                        </div>
+                        <div tabindex="0" class="mobileProjects--projectBox__description">
+                            <p><em>Note:</em> There are Admin & User sides of the App. User side is fully controlled by the Admin. Use "Test1234" to log in. After you've chosen a test, use the link at the top & Event ID to open a new tab & join a separate room for the Users (Audience). Begin the presentation by clicking Begin on the Admin tab. Then go through the slides until you get to Question 1. Control the flow of the presentation by clicking the "Next" button from the Admin page. User's page functionality is limited to submitting answers only.</p>
+                            <p>As a Front End Developer on a team consisting of three (Web Designer & a Back-End Dev) I was responsible for the View part of the app using React & Styled Components. The purpose of the app is to collect answers from multiple participants during conferences or Zoom calls. There are two sides and two different views: the Admin side & the User side. First, the presenter signs in using Admin's credentials (Use "Test1234" to log in). Then, there are four different presentations with four different tests to pick from. Upon a Presenters' request the audience can use their own devices to join a 'quiz room' using a link or a QR code that are shown on the screen. They sign in using an Event ID shown on the presenter's screen . Presenter controls the flow of the presentation as well as what the audience sees on their devices while the audience is able to select and submit one of the four answers to the current question shown on their devices. Simultaneously, the Presenter is able to see how many people signed in at the beginning of the presentation and how many  participants submitted their answers for each question. Then, the answers are stored in a MySQL database and at the end of the presentation the presenter can see the percentage breakdown of the answers given by the audience. Further, a CSV file with detailed results is generated and available for a download. At the end of the test the users are asked to submit their email and name if they want to subscribe to the newsletters.</p>
+                            <h4>Stack used:</h4>
+                        </div>
+                        <div tabindex="0" data-aos="zoom-in" class="mobileProjects--projectBox__stack">
+                            <img src="./assets//skillz/1.png" alt="stack item">
+                            <img src="./assets//skillz/13.png" alt="stack item">
+                            <img src="./assets//skillz/14.png" alt="stack item">
+                            <img src="./assets//skillz/15.png" alt="stack item">
+                            <img src="./assets//skillz/7.png" alt="stack item">
+                        </div>
+                        <div tabindex="0" class="mobileProjects--projectBox__buttons">
+                            <a tabindex="0" class="pushEffect redBtn hoverPurple" data-aos="fade-up" href="https://widespreadtruck.github.io/quiz-app/" target="_blank" rel="noopener noreferrer">Live
+                                Link</a>
+                            <a tabindex="0" class="pushEffect hoverWhite" data-aos="fade-up" href="https://github.com/widespreadtruck/quiz-app" target="_blank" rel="noopener noreferrer">GitHub</a>
+                        </div>
+                    </div> -->
+
+
+
+                    
+                    <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
+                        <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopCalculator.png" alt="image of the project on a laptop screen"></div>
+                        <div class="mobileProjects--projectBox__projectName"><h3>Daily Budget Calculator</h3></div>
+                        <div class="mobileProjects--projectBox__description">
+                            <p>Могу деньги считать.</p>
+                            <h4>Эт-самое:</h4>
+                        </div>
+                        <div data-aos="zoom-in" class="mobileProjects--projectBox__stack aos-init">
+                            <img src="./Test/1.png" alt="stack item">
+                            <img src="./Test/3.png" alt="stack item">
+                            <img src="./Test/8.png" alt="stack item">
+                            <img src="./Test/9.png" alt="stack item">
+                            <img src="./Test/7.png" alt="stack item">
+                        </div>
+                        <div class="mobileProjects--projectBox__buttons">
+                            <a tabindex="0" class="pushEffect redBtn hoverPurple aos-init" data-aos="fade-up" href="https://group-three-libraree-jamboree.github.io/project-six/" target="_blank" rel="noopener noreferrer">Live Link</a>
+                            <a tabindex="0" class="pushEffect hoverWhite aos-init" data-aos="fade-up" href="https://github.com/Group-Three-Libraree-Jamboree/project-six" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+                    </div>
+                    <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
+                        <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopSunshine.png" alt="image of the project on a laptop screen"></div>
+                        <div class="mobileProjects--projectBox__projectName"><h3>Sunshine Hotel Website Template</h3></div>
+                        <div class="mobileProjects--projectBox__description">
+                            <p>Тут отдыхал как-то.</p>
+                            <h4>Эт-самое:</h4>
+                        </div>
+                        <div data-aos="zoom-in" class="mobileProjects--projectBox__stack aos-init">
+                            <img src="./Test/9.png" alt="stack item">
+                            <img src="./Test/10.png" alt="stack item">
+                            <img src="./Test/6.png" alt="stack item">
+                            <img src="./Test/7.png" alt="stack item">
+                            <img src="./Test/11.png" alt="stack item">
+                        </div>
+                        <div class="mobileProjects--projectBox__buttons">
+                            <a tabindex="0" class="pushEffect redBtn hoverPurple aos-init" data-aos="fade-up" href="https://widespreadtruck.github.io/nikita-guliaev-project-two/" target="_blank" rel="noopener noreferrer">Live Link</a>
+                            <a tabindex="0" class="pushEffect hoverWhite aos-init" data-aos="fade-up" href="https://github.com/widespreadtruck/nikita-guliaev-project-two" target="_blank" rel="noopener noreferrer">GitHub</a></div>                        
+                    </div>
+                    <div class="mobileProjects--projectBox aos-init" data-aos="fade-up" data-aos-easing="ease-in-out">
+                        <div class="mobileProjects--projectBox__imageBox"><img src="./Test/laptopOne.png" alt="image of the project on a laptop screen"></div>
+                        <div class="mobileProjects--projectBox__projectName"><h3>One Magazine Website Template</h3></div>
+                        <div class="mobileProjects--projectBox__description">
+                            <p>Тут заказывал всякое. Делал это с любовью.</p>
+                            <h4>Эт-самое</h4>
+                        </div>
+                        <div data-aos="zoom-in" class="mobileProjects--projectBox__stack aos-init">
+                            <img src="./Test/9.png" alt="stack item">
+                            <img src="./Test/10.png" alt="stack item">
+                            <img src="./Test/6.png" alt="stack item">
+                            <img src="./Test/7.png" alt="stack item">
+                            <img src="./Test/11.png" alt="stack item">
+                        </div>
+                        <div class="mobileProjects--projectBox__buttons">
+                            <a tabindex="0" class="pushEffect redBtn hoverPurple aos-init" data-aos="fade-up" href="https://widespreadtruck.github.io/nikita-guliaev-project-one" target="_blank" rel="noopener noreferrer">Live Link</a>
+                            <a tabindex="0" class="pushEffect hoverWhite aos-init" data-aos="fade-up" href="https://github.com/widespreadtruck/nikita-guliaev-project-one" target="_blank" rel="noopener noreferrer">GitHub</a></div>                        
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact aos-init" id="contact" data-aos="fade-up" data-aos-easing="ease-in-out">
+            <div class="wrapper">
+                <div class="contacts--title">
+                    <div class="redLine"></div>
+                    <h2>Contacts 📬</h2>
+                </div>
+                <div class="contact--container">
+                    <div class="contact--container__left">
+                        <div class="contact--container__triangle">
+                            <img src="./Test/10(1).png" alt="spinning triangle">
+                        </div>
+                        <div><img src="./Test/exp.png" alt="an illustration of a person with a laptop"></div>
+                    </div>
+                    <div class="contact--container__right">
+                        <h3> Нужно убить бомжа? <br> Просто проверяю, запомнили ли Вы этот забавный факт обо мне.</h3>
+                        <div data-aos="fade-up" tabindex="0" class="aos-init"><a href="mailto:hello@nikitaguliaev.com">hello@nikitaguliaev.com</a></div>
+                        <p>-OR-</p>
+                        <form method="POST" action="https://formspree.io/xqkyejev" class="contact--formBox">
+                                <label for="name" aria-label="What&#39;s your name?"></label>
+                                <input tabindex="0" data-aos="fade-up" placeholder="Name" name="name" type="text" id="name" class="aos-init">
+                                <label for="email" aria-label="What&#39;s your email?"></label>
+                                <input tabindex="0" data-aos="fade-up" placeholder="Email" name="email" type="text" id="email" class="aos-init">
+                                <label for="message" aria-label="What&#39;s your message?"></label>
+                                <textarea data-aos="fade-up" tabindex="0" placeholder="Message" name="message" type="text" id="message" class="aos-init"></textarea>
+                                <button data-aos="fade-up" tabindex="0" type="submit" class="submit redBtn hoverPurple pushEffect aos-init">Send</button>                            
+                        </form>
+                    </div>
+                </div>
+        </div></section>
+        <footer class="footer">
+            <div class="wrapper">
+                <div class="footer--container">
+                    <h4>Следи за мной на свой страх и риск:</h4>
+                    <ul class="socialLinks">
+                        <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://twitter.com/nikita_guliaev"><i class="fab fa-twitter-square hoverGlow" aria-hidden="true"></i></a></li>
+                        <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://github.com/widespreadtruck"><i class="fab fa-github-square hoverGlow" aria-hidden="true"></i></a></li>
+                        <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nikita-guliaev-ma-808aab8a/"><i class="fab fa-linkedin hoverGlow" aria-hidden="true"></i></a>
+                        </li>
+                        <li><a tabindex="0" target="_blank" rel="noopener noreferrer" href="https://dev.to/nikita_guliaev"><i class="fab fa-dev hoverGlow" aria-hidden="true"></i></a></li>
+                    </ul>
+                    <p>© 2020 Nikita Double G. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+    </main>
+    <!-- Import typed.js -->
+    <script src="./Test/typed.js@2.0.11"></script>
+    <!-- Import jQuery -->
+    <script src="./Test/jquery-3.3.1.min.js.Без названия"></script>
+    <script src="./Test/script.js.Без названия"></script>    
+    <!-- Import smooth scroll for anchor tags -->
+    <script src="./Test/smooth-scroll.polyfills.min.js.Без названия"></script>
+    <!-- Import animate-on-scroll -->
+    <script src="./Test/aos.js.Без названия"></script>
+    <!-- Initialize animate-on-scroll -->
+    <script>
+        AOS.init();
+    </script>
+
+
+
+</body></html>
